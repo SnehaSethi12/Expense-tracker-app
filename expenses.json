@@ -1,0 +1,22 @@
+[
+    {
+        "amount": 1000.0,
+        "category": "travel",
+        "date": "2025-07-31"
+    },
+    {
+        "amount": 20000.0,
+        "category": "education",
+        "date": "2025-07-31"
+    },
+    {
+        "amount": 4000.0,
+        "category": "groceries",
+        "date": "2025-07-31"
+    },
+    {
+        "amount": 20000.0,
+        "category": "bill",
+        "date": "2025-07-31"
+    }
+]
